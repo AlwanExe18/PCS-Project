@@ -7,6 +7,8 @@ import androidx.databinding.DataBindingUtil
 import com.appezzy.app.R
 import com.appezzy.app.data.model.AuthUser
 import com.appezzy.app.databinding.ActivityAuthBinding
+
+
 import com.appezzy.app.ui.home.MainActivity
 
 class AuthActivity : AppCompatActivity() {
